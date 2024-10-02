@@ -1,0 +1,7 @@
+[package]
+name = "ma_macro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ma_proc = {path = "ma_proc"}
